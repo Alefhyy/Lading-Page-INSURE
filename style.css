@@ -1,0 +1,97 @@
+
+body{
+    background-color: hsl(256, 26%, 20%);
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    font-family: 'Karla', sans-serif;
+}
+
+header {
+    background-color: #FFFFFF;
+    text-align: right;
+    padding: 10px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-right: 240px;   
+    font-family: 'Poppins', sans-serif; 
+}
+
+#primeira_section {
+    margin-bottom: -420px;
+}
+
+.pagina_um {
+    color:#FFFFFF;
+    font-size: 70px;
+    font-weight: 200;
+    margin-left:220px;
+    margin-top: 200px;
+    line-height: 65px;
+    font-family: 'DM Serif Display', serif;
+}
+
+.primeiro_hr {
+    position: relative;
+    top: 115px;
+    width: 152px;
+    margin-left:220px;
+}
+
+.letra
+{
+    text-decoration: none;
+    color: #6c757d;
+    padding-top: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 10px;
+    background-color: #FFFFFF;
+    font-size: 12px;
+}
+
+.imagem_familia {
+    position:absolute;
+    top: 190px;
+    left: 800px;
+    right: 220px;
+}
+
+.texto {
+    margin-top: -15px;
+   color:#FFFFFF;
+   margin-left:220px;
+}
+
+.botao_primeira_pagina {
+    color:#FFFFFF;
+    display:inline-block;
+    margin-left:220px;
+    margin-top: 30px;
+    padding-top: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 10px;
+    background-color: hsl(256, 26%, 20%);
+    border-style: solid;
+    border-width: -10px;
+}
+
+.logo {
+    position: absolute;
+    left: 220px;
+}
+
+
+.imagem_esquerda {
+    position: relative;
+    top:-83px;
+}
+
+.imagem_superior_direita {
+    position: absolute;
+    right: 0px;
+    
+}
+
+

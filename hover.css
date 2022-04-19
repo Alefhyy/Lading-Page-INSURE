@@ -1,0 +1,36 @@
+.botao_primeira_pagina:hover {
+    transform: scale(1.05);
+}
+
+.botao_primeira_pagina {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    transition: 0.15s ease-in-out;
+    cursor: pointer;
+    justify-content: space-between;
+}
+
+.letra:hover {
+    transform: scale(1.05);
+    border-style: solid;
+    border-width: -10px;
+    color:black;
+    font-weight: bold;
+}
+
+.letra {
+    transition: 0.15s ease-in-out;
+    cursor: pointer;
+    justify-content: space-between;
+}
+
+.botao_caixa_how_we_work:hover {
+    transform: scale(1.05);
+}
+
+.botao_caixa_how_we_work {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    transition: 0.15s ease-in-out;
+    cursor: pointer;
+    justify-content: space-between;
+}
+
