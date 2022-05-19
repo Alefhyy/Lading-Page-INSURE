@@ -64,6 +64,7 @@ header {
 }
 
 .botao_primeira_pagina {
+    z-index:1;
     color:#FFFFFF;
     display:inline-block;
     margin-left:220px;
